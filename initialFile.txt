@@ -1,1 +1,5 @@
 This is the initial file that is ready for the first commit to git/ github
+
+
+This is a second comment in the secondary branch to show that changes in this branch don't affect the master branch until changes are merged with the master branch!
+
